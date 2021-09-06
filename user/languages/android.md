@@ -1,6 +1,6 @@
 ---
 title: Building an Android Project
-layout: en
+layout: id
 
 ---
 
